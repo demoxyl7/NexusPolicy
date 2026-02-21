@@ -1,9 +1,9 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
-chromadb
 python-dotenv
-pypdf
-tiktoken
-unstructured
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
