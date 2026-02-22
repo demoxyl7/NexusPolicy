@@ -70,4 +70,4 @@ p95 (Peak): 2.3 seconds
 Inference Engine: Google Gemini (via API)
 
 Vector Performance: ChromaDB search time < 15ms for 275+ chunks.
-Verified against a set of 15/15 queries to ensure consistent retrieval times.
+Verified against a set of 15/15 queries to ensure consistent retrieval times...
