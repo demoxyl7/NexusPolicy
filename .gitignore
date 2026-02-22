@@ -1,5 +1,6 @@
 venv_stable/
 .venv/
 .env
+.python-version
 chroma_db/
 __pycache__/
